@@ -21,9 +21,10 @@ section, article {
     border: 0;
 }
 
-    .image img {
+    .imageMe img {
         display: block;
-        width: 100%;
+        width: 25%;
+        margin: auto;
     }
 
     .image.avatar48 {
